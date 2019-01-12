@@ -5,3 +5,5 @@ function abc(x, y){
 var abc = function(x, y){
   return x + y; //expression function
 }
+
+var abc = (x, y) => x + y; //arrow function
