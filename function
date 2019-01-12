@@ -1,0 +1,7 @@
+function abc(x, y){
+  return x + y; //declaration function
+}
+
+var abc = function(x, y){
+  return x + y; //expression function
+}
